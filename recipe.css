@@ -3,11 +3,30 @@ body {
   background-color: blanchedalmond;
 }
 
+.ingredients-list {
+  list-style: square inside;
+}
+ol {
+  list-style: square inside;
+}
+ul li a {
+  text-decoration: none;
+  color: inherit;
+}
 
 h1 {
-  font-size: 38px
+  font-size: 38px;
 }
 
 h2 {
-  font-size: 32px
+  font-size: 32px;
+}
+
+header > img {
+  width: 100px;
+}
+
+.user_review h4 {
+  font-size: 18px;
+  font-weight: bold;
 }
