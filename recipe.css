@@ -1,4 +1,13 @@
 body {
   font-family: sans-serif;
-  color: blue
+  background-color: blanchedalmond;
+}
+
+
+h1 {
+  font-size: 38px
+}
+
+h2 {
+  font-size: 32px
 }
